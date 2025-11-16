@@ -1,0 +1,41 @@
+form
+{
+    width: 400px;
+    margin: 0 auto;
+    height: 450px;
+    padding: 8px;
+    background-color: rgb(168, 163, 164);
+    border:2px solid rgb(70, 14, 23);
+    border-radius: 5px;
+}
+
+
+input,textarea
+{
+    width: 85%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+label
+{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+
+button
+{
+    color: white;
+    background-color: rgb(137, 137, 8);
+    width: 85%;
+    height: 50px;
+    margin-top: 17px;
+}
+
+button:hover
+{
+    background-color: rgb(100, 100, 41);
+}
